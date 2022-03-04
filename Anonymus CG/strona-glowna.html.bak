@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="pl">
+  
+<!-- Mirrored from strona.customgames.pl/strona-glowna by HTTrack Website Copier/3.x [XR&CO'2017], Fri, 04 Mar 2022 17:28:47 GMT -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Custom Games - Strona Główna</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="css/fontello.css" />
+    <link rel="shortcut icon" href="icon.png" />
+    <meta name="description" content="Custom Games" />
+    <meta name="author" content="Adixe, NalogowyPL" />
+    <meta
+      name="keywords"
+      content="serwer, minecraft, custom, games, 1.18, Adixe, mc, orginalny, survival, minigry, minigra, minigame, minigames, super, hero, wars, fall, blocks, find, chests, shw, fb, fc"
+    />
+    <meta
+      name="google-site-verification"
+      content="k9T42fJCE7V5m7PgVu6FD4iSbTU5xHXgbcLcB-Z6TGE"
+    />
+  </head>
+
+  <body>
+    <h1>CUSTOM GAMES</h1>
+    <h2>Anonymus controls your activities</h2>
+    <h3 class="subtitle">
+      We are, have been and will be as long as anonymus exists
+    </h3>
+    <table class="body">
+      <tbody>
+        <tr>
+          <td class="box">
+            <h3>What we want?</h3>
+            <hr />
+            <p>
+              The Anonymus grouping controls this site and has insight into your current and future activities. Watch out!<br />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td class="space"></td>
+        </tr>
+        <tr>
+          <td class="box">
+            <h3>The content has been blocked.</h3>
+            <hr />
+            <p>Please contact the site administrator for more information.</p>
+            <center>
+              <table class="table_list">
+                <tbody>
+                  <tr>
+                    <td class="td_list">
+                      <p class="p_list">
+                        <check><i class="demo-icon icon-shield"></i></check
+                        ><b>The content has been blocked</b>. Please contact the site administrator for more information.
+                      </p>
+                    </td>
+                    <td class="td_list">
+                      <p class="p_list">
+                        <check><i class="demo-icon icon-shield"></i> </check
+                        ><b>The content has been blocked</b>. Please contact the site administrator for more information.
+                      </p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="td_list">
+                      <p class="p_list">
+                        <check><i class="demo-icon icon-shield"></i></check
+                        ><b>The content has been blocked</b>. Please contact the site administrator for more information.
+                      </p>
+                    </td>
+                    <td class="td_list">
+                      <p class="p_list">
+                        <check> <i class="demo-icon icon-shield"></i></check
+                        ><b>The content has been blocked</b>. Please contact the site administrator for more information.
+                      </p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="td_list">
+                      <p class="p_list">
+                        <check><i class="demo-icon icon-shield"></i></check
+                        ><b>The content has been blocked</b>. Please contact the site administrator for more information.
+                      </p>
+                    </td>
+                    <td class="td_list">
+                      <p class="p_list">
+                        <check><i class="demo-icon icon-shield"></i></check
+                        ><b>The content has been blocked</b>. Please contact the site administrator for more information.
+                      </p>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </center>
+          </td>
+        </tr>
+        <tr>
+          <td class="space"></td>
+        </tr>
+        <tr>
+          <td class="box">
+            <h3>The content has been blocked.</h3>
+            <hr />
+            <p>
+              Please contact the site administrator for more information.
+              <a href="" target="blank"
+                >The content has been blocked.</a
+              >The content has been blocked. Please contact the site administrator for more information.<br />
+              <center>
+                <a
+                  href=""
+                  title="The content has been blocked"
+                  target="blank"
+                  ><img
+                    src=""
+                    alt="The content has been blocked"
+                    style="width: 300px"
+                /></a>
+              </center>
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td class="space"></td>
+        </tr>
+        <tr>
+          <td class="box">
+            <p class="author">
+              Anonymus - Defense by attack
+            </p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <table class="header">
+      <tbody>
+        <tr>
+          <td class="header_logo">
+            <center>
+              <a href="strona-glowna.html"
+                ><img src="icon.png" alt="Logo" class="logo_img"
+              /></a>
+            </center>
+          </td>
+          <td class="header_cell">
+            <center>
+              <a href="strona-glowna.html" class="a_header">Strona Główna</a>
+            </center>
+          </td>
+          <td class="header_cell">
+            <center><a href="regulamin.html" class="a_header">Regulamin</a></center>
+          </td>
+          <td class="header_cell">
+            <center>
+              <a href="informacje.html" class="a_header">Informacje</a>
+            </center>
+          </td>
+          <td class="header_cell">
+            <center>
+              <a href="spolecznosc.html" class="a_header">Społeczność</a>
+            </center>
+          </td>
+          <td class="header_cell">
+            <center><a href="sklep.html" class="a_header">Sklep</a></center>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+
+<!-- Mirrored from strona.customgames.pl/strona-glowna by HTTrack Website Copier/3.x [XR&CO'2017], Fri, 04 Mar 2022 17:28:47 GMT -->
+</html>
